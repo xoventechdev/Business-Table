@@ -1,0 +1,902 @@
+[
+  {
+    "name": "TechTronics Reliable Corp.",
+    "address": "Fake Street 521, Doha, Qatar",
+    "capital": 315353,
+    "isProfitable": true,
+    "profit": 971564,
+    "loss": 0,
+    "owner": "John Doe 1"
+  },
+  {
+    "name": "FutureTech Sustainable Corp.",
+    "address": "Fake Street 929, Doha, Qatar",
+    "capital": 178285,
+    "isProfitable": true,
+    "profit": 770112,
+    "loss": 0,
+    "owner": "John Doe 2"
+  },
+  {
+    "name": "FutureTech Reliable Ltd.",
+    "address": "Fake Street 91, Doha, Qatar",
+    "capital": 827749,
+    "isProfitable": true,
+    "profit": 434252,
+    "loss": 0,
+    "owner": "John Doe 3"
+  },
+  {
+    "name": "Global Solutions Innovative Corp.",
+    "address": "Fake Street 689, Doha, Qatar",
+    "capital": 1098848,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 456788,
+    "owner": "John Doe 4"
+  },
+  {
+    "name": "Creative Labs Reliable LLC",
+    "address": "Fake Street 212, Doha, Qatar",
+    "capital": 1011788,
+    "isProfitable": true,
+    "profit": 670412,
+    "loss": 0,
+    "owner": "John Doe 5"
+  },
+  {
+    "name": "SkyNet Efficient LLC",
+    "address": "Fake Street 473, Doha, Qatar",
+    "capital": 1052496,
+    "isProfitable": true,
+    "profit": 878094,
+    "loss": 0,
+    "owner": "John Doe 6"
+  },
+  {
+    "name": "SkyNet Fast-Growing Co.",
+    "address": "Fake Street 584, Doha, Qatar",
+    "capital": 622596,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 396747,
+    "owner": "John Doe 7"
+  },
+  {
+    "name": "MegaCorp Efficient LLC",
+    "address": "Fake Street 669, Doha, Qatar",
+    "capital": 1023846,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 633433,
+    "owner": "John Doe 8"
+  },
+  {
+    "name": "SkyNet Fast-Growing Corp.",
+    "address": "Fake Street 593, Doha, Qatar",
+    "capital": 699766,
+    "isProfitable": true,
+    "profit": 870176,
+    "loss": 0,
+    "owner": "John Doe 9"
+  },
+  {
+    "name": "Global Solutions Profitable PLC",
+    "address": "Fake Street 909, Doha, Qatar",
+    "capital": 811132,
+    "isProfitable": true,
+    "profit": 794120,
+    "loss": 0,
+    "owner": "John Doe 10"
+  },
+  {
+    "name": "Creative Labs Innovative PLC",
+    "address": "Fake Street 868, Doha, Qatar",
+    "capital": 777253,
+    "isProfitable": true,
+    "profit": 159092,
+    "loss": 0,
+    "owner": "John Doe 11"
+  },
+  {
+    "name": "FutureTech Award-Winning PLC",
+    "address": "Fake Street 526, Doha, Qatar",
+    "capital": 732932,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 759302,
+    "owner": "John Doe 12"
+  },
+  {
+    "name": "FutureTech Fast-Growing Co.",
+    "address": "Fake Street 846, Doha, Qatar",
+    "capital": 682017,
+    "isProfitable": true,
+    "profit": 839487,
+    "loss": 0,
+    "owner": "John Doe 13"
+  },
+  {
+    "name": "Meta Solutions Innovative PLC",
+    "address": "Fake Street 704, Doha, Qatar",
+    "capital": 672573,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 903146,
+    "owner": "John Doe 14"
+  },
+  {
+    "name": "FutureTech Efficient Co.",
+    "address": "Fake Street 765, Doha, Qatar",
+    "capital": 601813,
+    "isProfitable": true,
+    "profit": 850066,
+    "loss": 0,
+    "owner": "John Doe 15"
+  },
+  {
+    "name": "Creative Labs Efficient Co.",
+    "address": "Fake Street 340, Doha, Qatar",
+    "capital": 976231,
+    "isProfitable": true,
+    "profit": 921890,
+    "loss": 0,
+    "owner": "John Doe 16"
+  },
+  {
+    "name": "GreenTech Solutions Customer-Centric LLC",
+    "address": "Fake Street 550, Doha, Qatar",
+    "capital": 463204,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 855441,
+    "owner": "John Doe 17"
+  },
+  {
+    "name": "Creative Labs Customer-Centric Co.",
+    "address": "Fake Street 211, Doha, Qatar",
+    "capital": 794166,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 781240,
+    "owner": "John Doe 18"
+  },
+  {
+    "name": "North Star Industries Profitable LLC",
+    "address": "Fake Street 642, Doha, Qatar",
+    "capital": 635641,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 769085,
+    "owner": "John Doe 19"
+  },
+  {
+    "name": "TechTronics Efficient Corp.",
+    "address": "Fake Street 572, Doha, Qatar",
+    "capital": 180625,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 688585,
+    "owner": "John Doe 20"
+  },
+  {
+    "name": "Meta Solutions Fast-Growing Co.",
+    "address": "Fake Street 273, Doha, Qatar",
+    "capital": 241437,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 876193,
+    "owner": "John Doe 21"
+  },
+  {
+    "name": "Global Solutions Innovative Corp.",
+    "address": "Fake Street 61, Doha, Qatar",
+    "capital": 656357,
+    "isProfitable": true,
+    "profit": 416727,
+    "loss": 0,
+    "owner": "John Doe 22"
+  },
+  {
+    "name": "FutureTech Efficient Ltd.",
+    "address": "Fake Street 231, Doha, Qatar",
+    "capital": 148667,
+    "isProfitable": true,
+    "profit": 215110,
+    "loss": 0,
+    "owner": "John Doe 23"
+  },
+  {
+    "name": "North Star Industries Award-Winning Ltd.",
+    "address": "Fake Street 288, Doha, Qatar",
+    "capital": 377818,
+    "isProfitable": true,
+    "profit": 331799,
+    "loss": 0,
+    "owner": "John Doe 24"
+  },
+  {
+    "name": "Acme Inc. Fast-Growing PLC",
+    "address": "Fake Street 146, Doha, Qatar",
+    "capital": 996402,
+    "isProfitable": true,
+    "profit": 2679,
+    "loss": 0,
+    "owner": "John Doe 25"
+  },
+  {
+    "name": "SkyNet Profitable Co.",
+    "address": "Fake Street 293, Doha, Qatar",
+    "capital": 403991,
+    "isProfitable": true,
+    "profit": 138087,
+    "loss": 0,
+    "owner": "John Doe 26"
+  },
+  {
+    "name": "Global Solutions Reliable LLC",
+    "address": "Fake Street 75, Doha, Qatar",
+    "capital": 420601,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 336492,
+    "owner": "John Doe 27"
+  },
+  {
+    "name": "Global Solutions Fast-Growing Corp.",
+    "address": "Fake Street 483, Doha, Qatar",
+    "capital": 853698,
+    "isProfitable": true,
+    "profit": 922128,
+    "loss": 0,
+    "owner": "John Doe 28"
+  },
+  {
+    "name": "GreenTech Solutions Customer-Centric PLC",
+    "address": "Fake Street 248, Doha, Qatar",
+    "capital": 402426,
+    "isProfitable": true,
+    "profit": 503378,
+    "loss": 0,
+    "owner": "John Doe 29"
+  },
+  {
+    "name": "Creative Labs Efficient Ltd.",
+    "address": "Fake Street 200, Doha, Qatar",
+    "capital": 141851,
+    "isProfitable": true,
+    "profit": 733911,
+    "loss": 0,
+    "owner": "John Doe 30"
+  },
+  {
+    "name": "Global Solutions Award-Winning LLC",
+    "address": "Fake Street 900, Doha, Qatar",
+    "capital": 358256,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 124749,
+    "owner": "John Doe 31"
+  },
+  {
+    "name": "Acme Inc. Sustainable LLC",
+    "address": "Fake Street 477, Doha, Qatar",
+    "capital": 916758,
+    "isProfitable": true,
+    "profit": 163403,
+    "loss": 0,
+    "owner": "John Doe 32"
+  },
+  {
+    "name": "Meta Solutions Award-Winning Co.",
+    "address": "Fake Street 796, Doha, Qatar",
+    "capital": 1074405,
+    "isProfitable": true,
+    "profit": 393875,
+    "loss": 0,
+    "owner": "John Doe 33"
+  },
+  {
+    "name": "TechTronics Fast-Growing LLC",
+    "address": "Fake Street 670, Doha, Qatar",
+    "capital": 566479,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 815414,
+    "owner": "John Doe 34"
+  },
+  {
+    "name": "SkyNet Award-Winning Corp.",
+    "address": "Fake Street 225, Doha, Qatar",
+    "capital": 645442,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 459820,
+    "owner": "John Doe 35"
+  },
+  {
+    "name": "Creative Labs Innovative LLC",
+    "address": "Fake Street 691, Doha, Qatar",
+    "capital": 984140,
+    "isProfitable": true,
+    "profit": 222357,
+    "loss": 0,
+    "owner": "John Doe 36"
+  },
+  {
+    "name": "MegaCorp Customer-Centric PLC",
+    "address": "Fake Street 348, Doha, Qatar",
+    "capital": 717319,
+    "isProfitable": true,
+    "profit": 489091,
+    "loss": 0,
+    "owner": "John Doe 37"
+  },
+  {
+    "name": "Meta Solutions Customer-Centric Corp.",
+    "address": "Fake Street 596, Doha, Qatar",
+    "capital": 1032503,
+    "isProfitable": true,
+    "profit": 329142,
+    "loss": 0,
+    "owner": "John Doe 38"
+  },
+  {
+    "name": "TechTronics Reliable LLC",
+    "address": "Fake Street 968, Doha, Qatar",
+    "capital": 742954,
+    "isProfitable": true,
+    "profit": 775986,
+    "loss": 0,
+    "owner": "John Doe 39"
+  },
+  {
+    "name": "Meta Solutions Efficient LLC",
+    "address": "Fake Street 701, Doha, Qatar",
+    "capital": 592361,
+    "isProfitable": true,
+    "profit": 726546,
+    "loss": 0,
+    "owner": "John Doe 40"
+  },
+  {
+    "name": "Acme Inc. Innovative Co.",
+    "address": "Fake Street 560, Doha, Qatar",
+    "capital": 275913,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 162988,
+    "owner": "John Doe 41"
+  },
+  {
+    "name": "Acme Inc. Reliable Ltd.",
+    "address": "Fake Street 800, Doha, Qatar",
+    "capital": 478528,
+    "isProfitable": true,
+    "profit": 341594,
+    "loss": 0,
+    "owner": "John Doe 42"
+  },
+  {
+    "name": "FutureTech Award-Winning Co.",
+    "address": "Fake Street 775, Doha, Qatar",
+    "capital": 248463,
+    "isProfitable": true,
+    "profit": 102821,
+    "loss": 0,
+    "owner": "John Doe 43"
+  },
+  {
+    "name": "GreenTech Solutions Profitable Corp.",
+    "address": "Fake Street 959, Doha, Qatar",
+    "capital": 986884,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 66140,
+    "owner": "John Doe 44"
+  },
+  {
+    "name": "Meta Solutions Profitable PLC",
+    "address": "Fake Street 916, Doha, Qatar",
+    "capital": 1034871,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 531650,
+    "owner": "John Doe 45"
+  },
+  {
+    "name": "Creative Labs Customer-Centric PLC",
+    "address": "Fake Street 270, Doha, Qatar",
+    "capital": 147749,
+    "isProfitable": true,
+    "profit": 425055,
+    "loss": 0,
+    "owner": "John Doe 46"
+  },
+  {
+    "name": "TechTronics Innovative PLC",
+    "address": "Fake Street 568, Doha, Qatar",
+    "capital": 599611,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 486950,
+    "owner": "John Doe 47"
+  },
+  {
+    "name": "Creative Labs Customer-Centric Co.",
+    "address": "Fake Street 630, Doha, Qatar",
+    "capital": 447612,
+    "isProfitable": true,
+    "profit": 218380,
+    "loss": 0,
+    "owner": "John Doe 48"
+  },
+  {
+    "name": "Global Solutions Efficient Corp.",
+    "address": "Fake Street 337, Doha, Qatar",
+    "capital": 1032537,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 694593,
+    "owner": "John Doe 49"
+  },
+  {
+    "name": "TechTronics Innovative PLC",
+    "address": "Fake Street 709, Doha, Qatar",
+    "capital": 1051053,
+    "isProfitable": true,
+    "profit": 109880,
+    "loss": 0,
+    "owner": "John Doe 50"
+  },
+  {
+    "name": "North Star Industries Fast-Growing PLC",
+    "address": "Fake Street 945, Doha, Qatar",
+    "capital": 106654,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 633639,
+    "owner": "John Doe 51"
+  },
+  {
+    "name": "MegaCorp Innovative LLC",
+    "address": "Fake Street 653, Doha, Qatar",
+    "capital": 446112,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 7487,
+    "owner": "John Doe 52"
+  },
+  {
+    "name": "North Star Industries Customer-Centric LLC",
+    "address": "Fake Street 418, Doha, Qatar",
+    "capital": 919672,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 911437,
+    "owner": "John Doe 53"
+  },
+  {
+    "name": "North Star Industries Profitable LLC",
+    "address": "Fake Street 808, Doha, Qatar",
+    "capital": 245404,
+    "isProfitable": true,
+    "profit": 695614,
+    "loss": 0,
+    "owner": "John Doe 54"
+  },
+  {
+    "name": "North Star Industries Innovative Corp.",
+    "address": "Fake Street 135, Doha, Qatar",
+    "capital": 1064943,
+    "isProfitable": true,
+    "profit": 431817,
+    "loss": 0,
+    "owner": "John Doe 55"
+  },
+  {
+    "name": "Meta Solutions Efficient Co.",
+    "address": "Fake Street 323, Doha, Qatar",
+    "capital": 958808,
+    "isProfitable": true,
+    "profit": 733888,
+    "loss": 0,
+    "owner": "John Doe 56"
+  },
+  {
+    "name": "North Star Industries Customer-Centric Corp.",
+    "address": "Fake Street 829, Doha, Qatar",
+    "capital": 940264,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 673237,
+    "owner": "John Doe 57"
+  },
+  {
+    "name": "TechTronics Reliable Co.",
+    "address": "Fake Street 644, Doha, Qatar",
+    "capital": 306937,
+    "isProfitable": true,
+    "profit": 955456,
+    "loss": 0,
+    "owner": "John Doe 58"
+  },
+  {
+    "name": "Meta Solutions Customer-Centric Ltd.",
+    "address": "Fake Street 531, Doha, Qatar",
+    "capital": 481343,
+    "isProfitable": true,
+    "profit": 814681,
+    "loss": 0,
+    "owner": "John Doe 59"
+  },
+  {
+    "name": "TechTronics Award-Winning PLC",
+    "address": "Fake Street 279, Doha, Qatar",
+    "capital": 574089,
+    "isProfitable": true,
+    "profit": 744400,
+    "loss": 0,
+    "owner": "John Doe 60"
+  },
+  {
+    "name": "SkyNet Award-Winning Co.",
+    "address": "Fake Street 288, Doha, Qatar",
+    "capital": 745691,
+    "isProfitable": true,
+    "profit": 284905,
+    "loss": 0,
+    "owner": "John Doe 61"
+  },
+  {
+    "name": "Global Solutions Innovative Co.",
+    "address": "Fake Street 88, Doha, Qatar",
+    "capital": 322830,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 676647,
+    "owner": "John Doe 62"
+  },
+  {
+    "name": "GreenTech Solutions Fast-Growing Co.",
+    "address": "Fake Street 200, Doha, Qatar",
+    "capital": 682988,
+    "isProfitable": true,
+    "profit": 128326,
+    "loss": 0,
+    "owner": "John Doe 63"
+  },
+  {
+    "name": "Meta Solutions Reliable Co.",
+    "address": "Fake Street 740, Doha, Qatar",
+    "capital": 403365,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 754791,
+    "owner": "John Doe 64"
+  },
+  {
+    "name": "MegaCorp Award-Winning PLC",
+    "address": "Fake Street 957, Doha, Qatar",
+    "capital": 817539,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 649780,
+    "owner": "John Doe 65"
+  },
+  {
+    "name": "Acme Inc. Efficient LLC",
+    "address": "Fake Street 841, Doha, Qatar",
+    "capital": 347228,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 581342,
+    "owner": "John Doe 66"
+  },
+  {
+    "name": "Meta Solutions Innovative Co.",
+    "address": "Fake Street 135, Doha, Qatar",
+    "capital": 777678,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 307801,
+    "owner": "John Doe 67"
+  },
+  {
+    "name": "Acme Inc. Reliable Ltd.",
+    "address": "Fake Street 123, Doha, Qatar",
+    "capital": 405485,
+    "isProfitable": true,
+    "profit": 362420,
+    "loss": 0,
+    "owner": "John Doe 68"
+  },
+  {
+    "name": "Global Solutions Efficient Corp.",
+    "address": "Fake Street 750, Doha, Qatar",
+    "capital": 937228,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 301026,
+    "owner": "John Doe 69"
+  },
+  {
+    "name": "TechTronics Profitable Corp.",
+    "address": "Fake Street 446, Doha, Qatar",
+    "capital": 1040649,
+    "isProfitable": true,
+    "profit": 517146,
+    "loss": 0,
+    "owner": "John Doe 70"
+  },
+  {
+    "name": "MegaCorp Customer-Centric Co.",
+    "address": "Fake Street 617, Doha, Qatar",
+    "capital": 741830,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 401832,
+    "owner": "John Doe 71"
+  },
+  {
+    "name": "Global Solutions Award-Winning PLC",
+    "address": "Fake Street 623, Doha, Qatar",
+    "capital": 261671,
+    "isProfitable": true,
+    "profit": 971028,
+    "loss": 0,
+    "owner": "John Doe 72"
+  },
+  {
+    "name": "Meta Solutions Award-Winning Corp.",
+    "address": "Fake Street 502, Doha, Qatar",
+    "capital": 495554,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 588682,
+    "owner": "John Doe 73"
+  },
+  {
+    "name": "TechTronics Reliable Ltd.",
+    "address": "Fake Street 654, Doha, Qatar",
+    "capital": 210558,
+    "isProfitable": true,
+    "profit": 609478,
+    "loss": 0,
+    "owner": "John Doe 74"
+  },
+  {
+    "name": "SkyNet Profitable PLC",
+    "address": "Fake Street 436, Doha, Qatar",
+    "capital": 819174,
+    "isProfitable": true,
+    "profit": 655673,
+    "loss": 0,
+    "owner": "John Doe 75"
+  },
+  {
+    "name": "Global Solutions Fast-Growing Ltd.",
+    "address": "Fake Street 566, Doha, Qatar",
+    "capital": 289993,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 786261,
+    "owner": "John Doe 76"
+  },
+  {
+    "name": "MegaCorp Profitable LLC",
+    "address": "Fake Street 346, Doha, Qatar",
+    "capital": 221046,
+    "isProfitable": true,
+    "profit": 293819,
+    "loss": 0,
+    "owner": "John Doe 77"
+  },
+  {
+    "name": "North Star Industries Award-Winning PLC",
+    "address": "Fake Street 969, Doha, Qatar",
+    "capital": 912625,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 208949,
+    "owner": "John Doe 78"
+  },
+  {
+    "name": "FutureTech Innovative Corp.",
+    "address": "Fake Street 791, Doha, Qatar",
+    "capital": 1096476,
+    "isProfitable": true,
+    "profit": 692685,
+    "loss": 0,
+    "owner": "John Doe 79"
+  },
+  {
+    "name": "SkyNet Sustainable LLC",
+    "address": "Fake Street 457, Doha, Qatar",
+    "capital": 999566,
+    "isProfitable": true,
+    "profit": 920297,
+    "loss": 0,
+    "owner": "John Doe 80"
+  },
+  {
+    "name": "Global Solutions Fast-Growing LLC",
+    "address": "Fake Street 167, Doha, Qatar",
+    "capital": 686976,
+    "isProfitable": true,
+    "profit": 563048,
+    "loss": 0,
+    "owner": "John Doe 81"
+  },
+  {
+    "name": "Meta Solutions Efficient Corp.",
+    "address": "Fake Street 542, Doha, Qatar",
+    "capital": 927369,
+    "isProfitable": true,
+    "profit": 567049,
+    "loss": 0,
+    "owner": "John Doe 82"
+  },
+  {
+    "name": "Global Solutions Sustainable Corp.",
+    "address": "Fake Street 542, Doha, Qatar",
+    "capital": 379836,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 790458,
+    "owner": "John Doe 83"
+  },
+  {
+    "name": "MegaCorp Innovative Corp.",
+    "address": "Fake Street 921, Doha, Qatar",
+    "capital": 464204,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 572821,
+    "owner": "John Doe 84"
+  },
+  {
+    "name": "FutureTech Fast-Growing PLC",
+    "address": "Fake Street 180, Doha, Qatar",
+    "capital": 1079860,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 111991,
+    "owner": "John Doe 85"
+  },
+  {
+    "name": "MegaCorp Sustainable Ltd.",
+    "address": "Fake Street 610, Doha, Qatar",
+    "capital": 352547,
+    "isProfitable": true,
+    "profit": 335758,
+    "loss": 0,
+    "owner": "John Doe 86"
+  },
+  {
+    "name": "SkyNet Fast-Growing LLC",
+    "address": "Fake Street 983, Doha, Qatar",
+    "capital": 853491,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 175249,
+    "owner": "John Doe 87"
+  },
+  {
+    "name": "North Star Industries Reliable Corp.",
+    "address": "Fake Street 765, Doha, Qatar",
+    "capital": 501537,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 491906,
+    "owner": "John Doe 88"
+  },
+  {
+    "name": "FutureTech Efficient Corp.",
+    "address": "Fake Street 48, Doha, Qatar",
+    "capital": 436254,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 681148,
+    "owner": "John Doe 89"
+  },
+  {
+    "name": "TechTronics Innovative PLC",
+    "address": "Fake Street 540, Doha, Qatar",
+    "capital": 1097090,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 829258,
+    "owner": "John Doe 90"
+  },
+  {
+    "name": "GreenTech Solutions Efficient PLC",
+    "address": "Fake Street 593, Doha, Qatar",
+    "capital": 340609,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 968244,
+    "owner": "John Doe 91"
+  },
+  {
+    "name": "Acme Inc. Efficient Co.",
+    "address": "Fake Street 979, Doha, Qatar",
+    "capital": 448256,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 940383,
+    "owner": "John Doe 92"
+  },
+  {
+    "name": "Creative Labs Efficient Co.",
+    "address": "Fake Street 97, Doha, Qatar",
+    "capital": 648765,
+    "isProfitable": true,
+    "profit": 856315,
+    "loss": 0,
+    "owner": "John Doe 93"
+  },
+  {
+    "name": "FutureTech Fast-Growing LLC",
+    "address": "Fake Street 16, Doha, Qatar",
+    "capital": 868345,
+    "isProfitable": true,
+    "profit": 777058,
+    "loss": 0,
+    "owner": "John Doe 94"
+  },
+  {
+    "name": "TechTronics Profitable PLC",
+    "address": "Fake Street 825, Doha, Qatar",
+    "capital": 557884,
+    "isProfitable": true,
+    "profit": 928929,
+    "loss": 0,
+    "owner": "John Doe 95"
+  },
+  {
+    "name": "SkyNet Reliable Co.",
+    "address": "Fake Street 960, Doha, Qatar",
+    "capital": 576159,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 273007,
+    "owner": "John Doe 96"
+  },
+  {
+    "name": "FutureTech Efficient Corp.",
+    "address": "Fake Street 946, Doha, Qatar",
+    "capital": 959645,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 790802,
+    "owner": "John Doe 97"
+  },
+  {
+    "name": "Creative Labs Sustainable PLC",
+    "address": "Fake Street 22, Doha, Qatar",
+    "capital": 443375,
+    "isProfitable": true,
+    "profit": 892271,
+    "loss": 0,
+    "owner": "John Doe 98"
+  },
+  {
+    "name": "MegaCorp Sustainable Co.",
+    "address": "Fake Street 555, Doha, Qatar",
+    "capital": 299526,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 70771,
+    "owner": "John Doe 99"
+  },
+  {
+    "name": "FutureTech Reliable Co.",
+    "address": "Fake Street 419, Doha, Qatar",
+    "capital": 971747,
+    "isProfitable": false,
+    "profit": 0,
+    "loss": 783421,
+    "owner": "John Doe 100"
+  }
+]
