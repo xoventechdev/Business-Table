@@ -11,12 +11,16 @@ export async function TableList(page, perPage, key) {
   const url = URL + page + "/" + perPage + "/" + key;
   try {
     const data = await axios.get(url);
-    if (data.status == 200 && data.data.status == "success") {
+    if (
+      data.data.status == "success" &&
+      !data.data.response[0].total[0] == []
+    ) {
       Store.dispatch(setBusinessList(data.data.response[0].data));
       Store.dispatch(setTotalBusiness(data.data.response[0].total[0].count));
     }
   } catch (error) {
     console.log(error);
     Store.dispatch(setBusinessList([]));
+    Store.dispatch(setTotalBusiness(0));
   }
 }

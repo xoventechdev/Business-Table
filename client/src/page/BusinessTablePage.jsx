@@ -12,7 +12,7 @@ const BusinessTablePage = () => {
 
   useEffect(() => {
     TableList(1, perPage, searchKey);
-  }, []);
+  }, [perPage, searchKey]);
 
   return (
     <div className="container">

@@ -1,35 +1,37 @@
-import React from "react";
-import { useSelector } from "react-redux";
+import React, { useRef } from "react";
+import { useDispatch, useSelector } from "react-redux";
+import { setSearchKeyword } from "../redux/state/BusinessSlice";
 
 const SearchItem = () => {
-  const totalItem = useSelector((state) => state.business.totalBusiness);
-  const perPage = useSelector((state) => state.business.perPage);
-  const pagNumber = useSelector((state) => state.business.pageNumber);
-  const searchKey = useSelector((state) => state.business.searchKeyword);
+  const searchString = useRef();
+  const dispatch = useDispatch();
 
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    TableList(pagNumber, perPage, e.target.search);
+  const handleSubmit = () => {
+    const value = searchString.current.value;
+    if (value.trim() === "") {
+      dispatch(setSearchKeyword("0"));
+    } else {
+      dispatch(setSearchKeyword(value));
+    }
   };
 
   return (
-    <div className="ms-2">
-      <form className="d-flex" role="search">
-        <input
-          className="form-control me-2"
-          type="search"
-          name="search"
-          placeholder="Search"
-          aria-label="Search"
-        />
-        <button
-          onClick={() => handleSubmit}
-          className="btn btn-outline-success"
-          type="submit"
-        >
-          Search
-        </button>
-      </form>
+    <div className="ms-2 d-flex">
+      <input
+        ref={searchString}
+        className="form-control me-2"
+        type="search"
+        placeholder="Search by name and owner"
+        name="search"
+        aria-label="Search"
+      />
+      <button
+        onClick={handleSubmit}
+        className="btn btn-outline-success"
+        type="submit"
+      >
+        Search
+      </button>
     </div>
   );
 };

@@ -5,7 +5,7 @@ export const businessSlice = createSlice({
   initialState: {
     businessList: [],
     totalBusiness: 0,
-    perPage: 10,
+    perPage: 5,
     searchKeyword: "0",
     pageNumber: 1,
   },
@@ -28,6 +28,11 @@ export const businessSlice = createSlice({
   },
 });
 
-export const { setBusinessList, setTotalBusiness, setPageNumber } =
-  businessSlice.actions;
+export const {
+  setBusinessList,
+  setTotalBusiness,
+  setPerPage,
+  setSearchKeyword,
+  setPageNumber,
+} = businessSlice.actions;
 export default businessSlice.reducer;
